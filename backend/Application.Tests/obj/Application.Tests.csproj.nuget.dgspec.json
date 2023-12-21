@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/Application.Tests.csproj": {}
+    "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Application.Tests\\Application.Tests.csproj": {}
   },
   "projects": {
-    "/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/Application.Tests.csproj": {
+    "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Application.Tests\\Application.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/Application.Tests.csproj",
+        "projectUniqueName": "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Application.Tests\\Application.Tests.csproj",
         "projectName": "Application.Tests",
-        "projectPath": "/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/Application.Tests.csproj",
-        "packagesPath": "/Users/henon/.nuget/packages/",
-        "outputPath": "/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/obj/",
+        "projectPath": "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Application.Tests\\Application.Tests.csproj",
+        "packagesPath": "C:\\Users\\Getahun\\.nuget\\packages\\",
+        "outputPath": "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Application.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/henon/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Getahun\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -83,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

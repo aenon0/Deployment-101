@@ -2427,19 +2427,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/henon/.nuget/packages/": {}
+    "C:\\Users\\Getahun\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/henon/Documents/Projects/DotNetCleanScaffold/Infrastructure/Infrastructure.csproj",
+      "projectUniqueName": "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "/Users/henon/Documents/Projects/DotNetCleanScaffold/Infrastructure/Infrastructure.csproj",
-      "packagesPath": "/Users/henon/.nuget/packages/",
-      "outputPath": "/Users/henon/Documents/Projects/DotNetCleanScaffold/Infrastructure/obj/",
+      "projectPath": "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Infrastructure\\Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Getahun\\.nuget\\packages\\",
+      "outputPath": "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/henon/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Getahun\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -2451,8 +2451,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/henon/Documents/Projects/DotNetCleanScaffold/Application/Application.csproj": {
-              "projectPath": "/Users/henon/Documents/Projects/DotNetCleanScaffold/Application/Application.csproj"
+            "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Application\\Application.csproj": {
+              "projectPath": "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Application\\Application.csproj"
             }
           }
         }
@@ -2482,7 +2482,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

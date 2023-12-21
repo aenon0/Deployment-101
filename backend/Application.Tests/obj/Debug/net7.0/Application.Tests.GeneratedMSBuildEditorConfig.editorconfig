@@ -8,6 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Application.Tests
-build_property.ProjectDir = /Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = D:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\

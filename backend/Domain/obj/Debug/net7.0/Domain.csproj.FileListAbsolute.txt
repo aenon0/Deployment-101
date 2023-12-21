@@ -23,3 +23,15 @@ d:/a2sv/contest/A2SVforces-Backend/Domain/obj/Debug/net7.0/refint/Domain.dll
 d:/a2sv/contest/A2SVforces-Backend/Domain/obj/Debug/net7.0/Domain.pdb
 d:/a2sv/contest/A2SVforces-Backend/Domain/obj/Debug/net7.0/ref/Domain.dll
 /Users/henon/Documents/Projects/DotNetCleanScaffold/Domain/obj/Debug/net7.0/Domain.sourcelink.json
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Domain\bin\Debug\net7.0\Domain.deps.json
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Domain\bin\Debug\net7.0\Domain.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Domain\bin\Debug\net7.0\Domain.pdb
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Domain\obj\Debug\net7.0\Domain.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Domain\obj\Debug\net7.0\refint\Domain.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Domain\obj\Debug\net7.0\Domain.pdb
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Domain\obj\Debug\net7.0\ref\Domain.dll

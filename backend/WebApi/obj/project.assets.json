@@ -3446,41 +3446,42 @@
     ]
   },
   "packageFolders": {
-    "/Users/henon/.nuget/packages/": {}
+    "C:\\Users\\Getahun\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/henon/Documents/Projects/DotNetCleanScaffold/WebApi/WebApi.csproj",
+      "projectUniqueName": "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "/Users/henon/Documents/Projects/DotNetCleanScaffold/WebApi/WebApi.csproj",
-      "packagesPath": "/Users/henon/.nuget/packages/",
-      "outputPath": "/Users/henon/Documents/Projects/DotNetCleanScaffold/WebApi/obj/",
+      "projectPath": "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\WebApi\\WebApi.csproj",
+      "packagesPath": "C:\\Users\\Getahun\\.nuget\\packages\\",
+      "outputPath": "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/henon/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Getahun\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/henon/Documents/Projects/DotNetCleanScaffold/Application/Application.csproj": {
-              "projectPath": "/Users/henon/Documents/Projects/DotNetCleanScaffold/Application/Application.csproj"
+            "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Application\\Application.csproj": {
+              "projectPath": "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Application\\Application.csproj"
             },
-            "/Users/henon/Documents/Projects/DotNetCleanScaffold/Domain/Domain.csproj": {
-              "projectPath": "/Users/henon/Documents/Projects/DotNetCleanScaffold/Domain/Domain.csproj"
+            "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Domain\\Domain.csproj": {
+              "projectPath": "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Domain\\Domain.csproj"
             },
-            "/Users/henon/Documents/Projects/DotNetCleanScaffold/Infrastructure/Infrastructure.csproj": {
-              "projectPath": "/Users/henon/Documents/Projects/DotNetCleanScaffold/Infrastructure/Infrastructure.csproj"
+            "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Infrastructure\\Infrastructure.csproj"
             },
-            "/Users/henon/Documents/Projects/DotNetCleanScaffold/Persistence/Persistence.csproj": {
-              "projectPath": "/Users/henon/Documents/Projects/DotNetCleanScaffold/Persistence/Persistence.csproj"
+            "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Persistence\\Persistence.csproj": {
+              "projectPath": "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Persistence\\Persistence.csproj"
             }
           }
         }
@@ -3523,7 +3524,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

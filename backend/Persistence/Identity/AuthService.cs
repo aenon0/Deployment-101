@@ -68,10 +68,10 @@ public class AuthService : IAuthService
             throw new NotFoundException("User not registered");
         }
 
-        if (!user.EmailConfirmed)
-        {
-            throw new ValidationException("User email not verified : please verify your email address");
-        }
+        // if (!user.EmailConfirmed)
+        // {
+        //     throw new ValidationException("User email not verified : please verify your email address");
+        // }
 
         var result = await _signInManager.PasswordSignInAsync(user, request.Password, false, lockoutOnFailure: false);
         if (!result.Succeeded)
