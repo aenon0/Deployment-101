@@ -1,0 +1,61 @@
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Persistence/bin/Debug/net7.0/Persistence.deps.json
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Persistence/bin/Debug/net7.0/Persistence.runtimeconfig.json
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Persistence/bin/Debug/net7.0/Persistence.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Persistence/bin/Debug/net7.0/Persistence.pdb
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Persistence/obj/Debug/net7.0/Persistence.csproj.AssemblyReference.cache
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Persistence/obj/Debug/net7.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfoInputs.cache
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfo.cs
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Persistence/obj/Debug/net7.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Persistence/obj/Debug/net7.0/Persistence.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Persistence/obj/Debug/net7.0/refint/Persistence.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Persistence/obj/Debug/net7.0/Persistence.pdb
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Persistence/obj/Debug/net7.0/Persistence.genruntimeconfig.cache
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Persistence/obj/Debug/net7.0/ref/Persistence.dll
+d:/a2sv/contest/A2SVforces-Backend/Persistence/bin/Debug/net7.0/Persistence.deps.json
+d:/a2sv/contest/A2SVforces-Backend/Persistence/bin/Debug/net7.0/Persistence.runtimeconfig.json
+d:/a2sv/contest/A2SVforces-Backend/Persistence/bin/Debug/net7.0/Persistence.dll
+d:/a2sv/contest/A2SVforces-Backend/Persistence/bin/Debug/net7.0/Persistence.pdb
+d:/a2sv/contest/A2SVforces-Backend/Persistence/obj/Debug/net7.0/Persistence.csproj.AssemblyReference.cache
+d:/a2sv/contest/A2SVforces-Backend/Persistence/obj/Debug/net7.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+d:/a2sv/contest/A2SVforces-Backend/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfoInputs.cache
+d:/a2sv/contest/A2SVforces-Backend/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfo.cs
+d:/a2sv/contest/A2SVforces-Backend/Persistence/obj/Debug/net7.0/Persistence.csproj.CoreCompileInputs.cache
+d:/a2sv/contest/A2SVforces-Backend/Persistence/obj/Debug/net7.0/Persistence.dll
+d:/a2sv/contest/A2SVforces-Backend/Persistence/obj/Debug/net7.0/refint/Persistence.dll
+d:/a2sv/contest/A2SVforces-Backend/Persistence/obj/Debug/net7.0/Persistence.pdb
+d:/a2sv/contest/A2SVforces-Backend/Persistence/obj/Debug/net7.0/Persistence.genruntimeconfig.cache
+d:/a2sv/contest/A2SVforces-Backend/Persistence/obj/Debug/net7.0/ref/Persistence.dll
+D:/a2sv/contest/A2SVforces-Backend/Persistence/bin/Debug/net7.0/Application.dll
+D:/a2sv/contest/A2SVforces-Backend/Persistence/bin/Debug/net7.0/Domain.dll
+D:/a2sv/contest/A2SVforces-Backend/Persistence/bin/Debug/net7.0/Domain.pdb
+D:/a2sv/contest/A2SVforces-Backend/Persistence/bin/Debug/net7.0/Application.pdb
+D:/a2sv/contest/A2SVforces-Backend/Persistence/obj/Debug/net7.0/Persistence.csproj.CopyComplete
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Persistence/bin/Debug/net7.0/Application.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Persistence/bin/Debug/net7.0/Domain.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Persistence/bin/Debug/net7.0/Domain.pdb
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Persistence/bin/Debug/net7.0/Application.pdb
+<<<<<<< HEAD
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Persistence/obj/Debug/net7.0/Persistence.sourcelink.json
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Persistence/obj/Debug/net7.0/Persistence.csproj.CopyComplete
+=======
+>>>>>>> fixTheDetached
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Persistence\bin\Debug\net7.0\Persistence.deps.json
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Persistence\bin\Debug\net7.0\Persistence.runtimeconfig.json
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Persistence\bin\Debug\net7.0\Persistence.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Persistence\bin\Debug\net7.0\Persistence.pdb
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Persistence\bin\Debug\net7.0\Application.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Persistence\bin\Debug\net7.0\Domain.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Persistence\bin\Debug\net7.0\Domain.pdb
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Persistence\bin\Debug\net7.0\Application.pdb
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Persistence\obj\Debug\net7.0\Persistence.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Persistence\obj\Debug\net7.0\Persistence.pdb
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Persistence\obj\Debug\net7.0\Persistence.genruntimeconfig.cache
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Persistence\obj\Debug\net7.0\ref\Persistence.dll

@@ -1,0 +1,456 @@
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/archive/empty.7z
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/archive/empty.bz2
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/archive/empty.gz
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/archive/empty.tar
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/archive/empty.xz
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/archive/empty.zip
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/document/empty.docx
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/document/empty.odt
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/document/empty.pdf
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/document/empty.rtf
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.avif
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.bmp
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.dds
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.dib
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.emf
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.exif
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.gif
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.heic
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.heif
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.ico
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.j2c
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.jfif
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.jp2
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.jpc
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.jpe
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.jpg
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.jxr
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.pbm
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.pcx
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.pgm
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.png
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.ppm
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.rle
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.tga
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.tif
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.wdp
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.webp
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.wmp
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/sheet/empty.ods
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/sheet/empty.xlsx
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/slide/empty.odp
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles/slide/empty.pptx
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/xunit.runner.utility.netcoreapp10.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/Application.Tests.deps.json
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/Application.Tests.runtimeconfig.json
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/Application.Tests.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/Application.Tests.pdb
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/Castle.Core.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/DiffEngine.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/EmptyFiles.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/Microsoft.TestPlatform.Utilities.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/testhost.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/Moq.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/NuGet.Frameworks.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/Shouldly.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/System.CodeDom.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/System.Diagnostics.EventLog.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/System.Management.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/xunit.abstractions.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/xunit.assert.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/xunit.core.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/xunit.execution.dotnet.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Management.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/obj/Debug/net7.0/Application.Tests.csproj.AssemblyReference.cache
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/obj/Debug/net7.0/Application.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/obj/Debug/net7.0/Application.Tests.AssemblyInfoInputs.cache
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/obj/Debug/net7.0/Application.Tests.AssemblyInfo.cs
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/obj/Debug/net7.0/Application.Tests.csproj.CoreCompileInputs.cache
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/obj/Debug/net7.0/Application.Tests.csproj.CopyComplete
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/obj/Debug/net7.0/Application.Tests.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/obj/Debug/net7.0/refint/Application.Tests.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/obj/Debug/net7.0/Application.Tests.pdb
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/obj/Debug/net7.0/Application.Tests.genruntimeconfig.cache
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/obj/Debug/net7.0/ref/Application.Tests.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/archive/empty.7z
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/archive/empty.bz2
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/archive/empty.gz
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/archive/empty.tar
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/archive/empty.xz
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/archive/empty.zip
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/document/empty.docx
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/document/empty.odt
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/document/empty.pdf
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/document/empty.rtf
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.avif
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.bmp
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.dds
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.dib
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.emf
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.exif
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.gif
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.heic
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.heif
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.ico
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.j2c
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.jfif
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.jp2
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.jpc
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.jpe
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.jpg
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.jxr
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.pbm
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.pcx
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.pgm
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.png
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.ppm
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.rle
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.tga
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.tif
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.wdp
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.webp
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/image/empty.wmp
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/sheet/empty.ods
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/sheet/empty.xlsx
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/slide/empty.odp
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles/slide/empty.pptx
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/testhost.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/xunit.runner.reporters.netcoreapp10.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/xunit.runner.utility.netcoreapp10.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/testhost.exe
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/Application.Tests.deps.json
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/Application.Tests.runtimeconfig.json
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/Application.Tests.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/Application.Tests.pdb
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/Castle.Core.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/DiffEngine.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/EmptyFiles.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/Microsoft.TestPlatform.CoreUtilities.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/Microsoft.TestPlatform.Utilities.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/Moq.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/Newtonsoft.Json.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/NuGet.Frameworks.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/Shouldly.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/System.CodeDom.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/System.Diagnostics.EventLog.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/System.Management.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/xunit.abstractions.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/xunit.assert.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/xunit.core.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/xunit.execution.dotnet.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Management.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/obj/Debug/net7.0/Application.Tests.csproj.AssemblyReference.cache
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/obj/Debug/net7.0/Application.Tests.GeneratedMSBuildEditorConfig.editorconfig
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/obj/Debug/net7.0/Application.Tests.AssemblyInfoInputs.cache
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/obj/Debug/net7.0/Application.Tests.AssemblyInfo.cs
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/obj/Debug/net7.0/Application.Tests.csproj.CoreCompileInputs.cache
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/obj/Debug/net7.0/Application.Tests.csproj.CopyComplete
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/obj/Debug/net7.0/Application.Tests.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/obj/Debug/net7.0/refint/Application.Tests.dll
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/obj/Debug/net7.0/Application.Tests.pdb
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/obj/Debug/net7.0/Application.Tests.genruntimeconfig.cache
+d:/a2sv/contest/A2SVforces-Backend/Application.Tests/obj/Debug/net7.0/ref/Application.Tests.dll
+/Users/henon/Documents/Projects/DotNetCleanScaffold/Application.Tests/obj/Debug/net7.0/Application.Tests.sourcelink.json
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\archive\empty.7z
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\archive\empty.bz2
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\archive\empty.gz
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\archive\empty.tar
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\archive\empty.xz
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\archive\empty.zip
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\document\empty.docx
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\document\empty.odt
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\document\empty.pdf
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\document\empty.rtf
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\image\empty.avif
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\image\empty.bmp
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\image\empty.dds
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\image\empty.dib
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\image\empty.emf
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\image\empty.exif
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\image\empty.gif
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\image\empty.heic
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\image\empty.heif
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\image\empty.ico
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\image\empty.j2c
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\image\empty.jfif
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\image\empty.jp2
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\image\empty.jpc
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\image\empty.jpe
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\image\empty.jpg
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\image\empty.jxr
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\image\empty.pbm
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\image\empty.pcx
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\image\empty.pgm
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\image\empty.png
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\image\empty.ppm
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\image\empty.rle
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\image\empty.tga
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\image\empty.tif
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\image\empty.wdp
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\image\empty.webp
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\image\empty.wmp
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\sheet\empty.ods
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\sheet\empty.xlsx
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\slide\empty.odp
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles\slide\empty.pptx
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\testhost.exe
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\testhost.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\xunit.runner.reporters.netcoreapp10.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\xunit.runner.utility.netcoreapp10.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\Application.Tests.deps.json
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\Application.Tests.runtimeconfig.json
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\Application.Tests.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\Application.Tests.pdb
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\Castle.Core.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\DiffEngine.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\EmptyFiles.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\Moq.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\Newtonsoft.Json.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\NuGet.Frameworks.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\Shouldly.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\System.CodeDom.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\System.Management.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\xunit.abstractions.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\xunit.assert.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\xunit.core.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\xunit.execution.dotnet.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Management.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\obj\Debug\net7.0\Application.Tests.csproj.AssemblyReference.cache
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\obj\Debug\net7.0\Application.Tests.GeneratedMSBuildEditorConfig.editorconfig
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\obj\Debug\net7.0\Application.Tests.AssemblyInfoInputs.cache
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\obj\Debug\net7.0\Application.Tests.AssemblyInfo.cs
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\obj\Debug\net7.0\Application.Tests.csproj.CoreCompileInputs.cache
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\obj\Debug\net7.0\Application.Tests.csproj.CopyComplete
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\obj\Debug\net7.0\Application.Tests.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\obj\Debug\net7.0\refint\Application.Tests.dll
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\obj\Debug\net7.0\Application.Tests.pdb
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\obj\Debug\net7.0\Application.Tests.genruntimeconfig.cache
+d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application.Tests\obj\Debug\net7.0\ref\Application.Tests.dll

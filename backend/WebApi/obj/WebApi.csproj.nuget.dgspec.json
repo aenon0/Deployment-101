@@ -1,0 +1,387 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\WebApi\\WebApi.csproj": {}
+  },
+  "projects": {
+    "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Application\\Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\Getahun\\.nuget\\packages\\",
+        "outputPath": "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Getahun\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Domain\\Domain.csproj": {
+                "projectPath": "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Getahun\\.nuget\\packages\\",
+        "outputPath": "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Getahun\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Infrastructure\\Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Infrastructure\\Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Getahun\\.nuget\\packages\\",
+        "outputPath": "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Getahun\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Application\\Application.csproj": {
+                "projectPath": "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Application\\Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Persistence\\Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Persistence\\Persistence.csproj",
+        "projectName": "Persistence",
+        "projectPath": "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\Getahun\\.nuget\\packages\\",
+        "outputPath": "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Getahun\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Application\\Application.csproj": {
+                "projectPath": "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Application\\Application.csproj"
+              },
+              "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Domain\\Domain.csproj": {
+                "projectPath": "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.32.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\WebApi\\WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\WebApi\\WebApi.csproj",
+        "projectName": "WebApi",
+        "projectPath": "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\WebApi\\WebApi.csproj",
+        "packagesPath": "C:\\Users\\Getahun\\.nuget\\packages\\",
+        "outputPath": "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Getahun\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Application\\Application.csproj": {
+                "projectPath": "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Application\\Application.csproj"
+              },
+              "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Domain\\Domain.csproj": {
+                "projectPath": "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Domain\\Domain.csproj"
+              },
+              "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Infrastructure\\Infrastructure.csproj"
+              },
+              "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Persistence\\Persistence.csproj": {
+                "projectPath": "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Persistence\\Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
