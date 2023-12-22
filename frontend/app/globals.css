@@ -74,3 +74,10 @@
     @apply bg-background text-foreground;
   }
 }
+
+@media (max-width: 768px) {
+  /* Stack image and form vertically on smaller screens */
+  .section > div {
+    width: 100%;
+  }
+}
