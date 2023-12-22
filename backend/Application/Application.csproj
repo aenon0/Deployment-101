@@ -15,12 +15,4 @@
   <ItemGroup>
     <ProjectReference Include="..\Domain\Domain.csproj" />
   </ItemGroup>
-  <ItemGroup>
-    <None Remove="Contracts\Persistence\" />
-    <None Remove="Usecases\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Contracts\Persistence\" />
-    <Folder Include="Usecases\" />
-  </ItemGroup>
 </Project>

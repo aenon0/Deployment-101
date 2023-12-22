@@ -2432,11 +2432,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Getahun\\.nuget\\packages\\",
-      "outputPath": "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Infrastructure\\obj\\",
+      "outputPath": "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Getahun\\AppData\\Roaming\\NuGet\\NuGet.Config"
