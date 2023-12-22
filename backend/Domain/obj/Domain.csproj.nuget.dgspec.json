@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Domain\\Domain.csproj": {}
+    "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Domain\\Domain.csproj": {
+    "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Domain\\Domain.csproj",
+        "projectPath": "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Getahun\\.nuget\\packages\\",
-        "outputPath": "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Domain\\obj\\",
+        "outputPath": "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Getahun\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,5 +1,6 @@
 using System.Text;
 using Application.Contracts.Identity;
+using Application.Contracts.Persistence;
 using Application.Models;
 using Domain.Entites;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -9,7 +10,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.IdentityModel.Tokens;
 using Persistence.Identity;
-
+using Persistence.Repositories;
 
 namespace Persistence;
 
@@ -22,7 +23,7 @@ public  static class PersistenceServiceRegistration
             services.Configure<ServerSettings>(configuration.GetSection("ServerSettings"));
 
             services.AddScoped<IAuthService,AuthService>();
-            // services.AddScoped<IUnitOfWork,UnitOfWork>();
+            services.AddScoped<IUnitOfWork,UnitOfWork>();
             services.AddIdentity<MainUser, IdentityRole>()
                 .AddEntityFrameworkStores<ContestManagementDbContext>()
                 // .AddPasswordValidator<UserPasswordValidator>()

@@ -22,6 +22,28 @@ namespace Persistence.Migrations
 
             NpgsqlModelBuilderExtensions.UseIdentityByDefaultColumns(modelBuilder);
 
+            modelBuilder.Entity("Domain.Entites.Comment", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+
+                    b.Property<DateTime>("CreatedDate")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<string>("Message")
+                        .HasColumnType("text");
+
+                    b.Property<DateTime>("ModifiedDate")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Comments");
+                });
+
             modelBuilder.Entity("Domain.Entites.MainUser", b =>
                 {
                     b.Property<string>("Id")
@@ -96,7 +118,7 @@ namespace Persistence.Migrations
                         {
                             Id = "8e445865-a24d-4543-a6c6-9443d048cdb9",
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "f97808a3-db7d-4351-b2fa-0444df366185",
+                            ConcurrencyStamp = "98299e6c-a49e-4c73-bef8-35744ee41fd5",
                             Email = "admin@localhost.com",
                             EmailConfirmed = true,
                             FirstName = "System",
@@ -104,9 +126,9 @@ namespace Persistence.Migrations
                             LockoutEnabled = false,
                             NormalizedEmail = "ADMIN@LOCALHOST.COM",
                             NormalizedUserName = "ADMIN@LOCALHOST.COM",
-                            PasswordHash = "AQAAAAIAAYagAAAAEHm0TF5ZUxJF3bc+DY4AE8Mbp/n9SvxNiL8njgzL3Y1sNlgvuCxD8/knVghLLEnZow==",
+                            PasswordHash = "AQAAAAIAAYagAAAAEAqyzDvD737twJIniZOzB4d2b+5lTzTONIFJ1YRvJJN/rTCH65OBU9zw9BD0XiQJAg==",
                             PhoneNumberConfirmed = false,
-                            SecurityStamp = "e5662b4b-1ffa-46ab-bd21-1fcc5ee8b28c",
+                            SecurityStamp = "e7f4d584-30fb-4184-8a0f-75498bb225b6",
                             TwoFactorEnabled = false,
                             UserName = "admin@localhost.com"
                         },
@@ -114,7 +136,7 @@ namespace Persistence.Migrations
                         {
                             Id = "9e224968-33e4-4652-b7b7-8574d048cdb9",
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "55f3fdc4-0c9c-4bbd-9b07-04f447df3c9a",
+                            ConcurrencyStamp = "fe9ca14d-bcae-4226-b2a9-8fe980a846b6",
                             Email = "user@localhost.com",
                             EmailConfirmed = true,
                             FirstName = "System",
@@ -122,9 +144,9 @@ namespace Persistence.Migrations
                             LockoutEnabled = false,
                             NormalizedEmail = "USER@LOCALHOST.COM",
                             NormalizedUserName = "USER@LOCALHOST.COM",
-                            PasswordHash = "AQAAAAIAAYagAAAAEMTyedDnT12Nyydk9MkwSA5VyeQkxjc0Tg90d6EpxrmtrdxVIfWjRDtEsR81TI8BEA==",
+                            PasswordHash = "AQAAAAIAAYagAAAAEGNrYY5Tt+vxqhUtQmRmVMegUQ40XyfnjRSUyetD1BH9nunJTR3wKNmmXnJzZj4WAQ==",
                             PhoneNumberConfirmed = false,
-                            SecurityStamp = "d631cd87-dcf1-4d10-9e59-0d63e12c9e56",
+                            SecurityStamp = "72bf3356-9554-4074-b961-d831961a82a8",
                             TwoFactorEnabled = false,
                             UserName = "user@localhost.com"
                         });

@@ -9,6 +9,8 @@ namespace Persistence;
 public class ContestManagementDbContext : IdentityDbContext<MainUser>
 {
 
+     public DbSet<Comment> Comments { get; set; }
+
 
     public ContestManagementDbContext(DbContextOptions<ContestManagementDbContext> options) : base(options)
     {

@@ -3,7 +3,7 @@ using Domain.Entites;
 
 namespace Application.Contracts.Persistence
 {
-    public class IQuestionContestRepository : IGenericRepository<QuestionContest>
+    public interface IQuestionContestRepository : IGenericRepository<QuestionContest>
     {
         public Task<QuestionContest> Add(QuestionContest entity)
         {

@@ -2433,8 +2433,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Domain\\Domain.csproj": {
-              "projectPath": "d:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Domain\\Domain.csproj"
+            "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Domain\\Domain.csproj"
             }
           }
         }
