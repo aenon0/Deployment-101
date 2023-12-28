@@ -2427,32 +2427,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Getahun\\.nuget\\packages\\": {}
+    "C:\\Users\\nahom\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Infrastructure\\Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\Getahun\\.nuget\\packages\\",
-      "outputPath": "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Infrastructure\\Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\nahom\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Getahun\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\nahom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Application\\Application.csproj": {
-              "projectPath": "D:\\a2sv\\real contest\\contest-central-g4-aait-team2\\backend\\Application\\Application.csproj"
+            "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\Application.csproj"
             }
           }
         }
@@ -2461,6 +2464,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -2482,7 +2490,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

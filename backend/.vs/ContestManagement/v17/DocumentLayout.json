@@ -1,0 +1,566 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-g4-aait-team2\\backend\\application\\features\\contestcreation\\handler\\createcontestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|solutionrelative:application\\features\\contestcreation\\handler\\createcontestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CAD1A7-67B7-473A-BAC8-F752FF7069B6}|Persistence\\Persistence.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-g4-aait-team2\\backend\\persistence\\contestmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CAD1A7-67B7-473A-BAC8-F752FF7069B6}|Persistence\\Persistence.csproj|solutionrelative:persistence\\contestmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CAD1A7-67B7-473A-BAC8-F752FF7069B6}|Persistence\\Persistence.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-g4-aait-team2\\backend\\persistence\\persistenceserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CAD1A7-67B7-473A-BAC8-F752FF7069B6}|Persistence\\Persistence.csproj|solutionrelative:persistence\\persistenceserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CAD1A7-67B7-473A-BAC8-F752FF7069B6}|Persistence\\Persistence.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-g4-aait-team2\\backend\\persistence\\contestmanagementdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CAD1A7-67B7-473A-BAC8-F752FF7069B6}|Persistence\\Persistence.csproj|solutionrelative:persistence\\contestmanagementdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-g4-aait-team2\\backend\\application\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|solutionrelative:application\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-g4-aait-team2\\backend\\application\\models\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|solutionrelative:application\\models\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-g4-aait-team2\\backend\\application\\models\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|solutionrelative:application\\models\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-g4-aait-team2\\backend\\application\\features\\user\\handlers\\queries\\getindividualcontesthistoryrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|solutionrelative:application\\features\\user\\handlers\\queries\\getindividualcontesthistoryrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-g4-aait-team2\\backend\\application\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|solutionrelative:application\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-g4-aait-team2\\backend\\application\\exceptions\\internalservererrorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|solutionrelative:application\\exceptions\\internalservererrorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-g4-aait-team2\\backend\\application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|solutionrelative:application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-g4-aait-team2\\backend\\application\\dtos\\contestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|solutionrelative:application\\dtos\\contestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-g4-aait-team2\\backend\\application\\dtos\\common\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|solutionrelative:application\\dtos\\common\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-g4-aait-team2\\backend\\application\\contracts\\infrastructure\\iuseraccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|solutionrelative:application\\contracts\\infrastructure\\iuseraccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-g4-aait-team2\\backend\\application\\contracts\\infrastructure\\icodeforcesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|solutionrelative:application\\contracts\\infrastructure\\icodeforcesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B75826B-28A2-4E66-B68B-1A42991444DD}|WebApi\\WebApi.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-g4-aait-team2\\backend\\webapi\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B75826B-28A2-4E66-B68B-1A42991444DD}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B75826B-28A2-4E66-B68B-1A42991444DD}|WebApi\\WebApi.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-g4-aait-team2\\backend\\webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B75826B-28A2-4E66-B68B-1A42991444DD}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B75826B-28A2-4E66-B68B-1A42991444DD}|WebApi\\WebApi.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-g4-aait-team2\\backend\\webapi\\controllers\\contest\\contestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B75826B-28A2-4E66-B68B-1A42991444DD}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\contest\\contestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{558280CE-8818-4890-8BF6-1A2E4AA31F78}|Infrastructure\\Infrastructure.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-g4-aait-team2\\backend\\infrastructure\\codeforcesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{558280CE-8818-4890-8BF6-1A2E4AA31F78}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\codeforcesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A527206-9C1F-4497-BDFC-4984D438CA2D}|Domain\\Domain.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-g4-aait-team2\\backend\\domain\\entites\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5A527206-9C1F-4497-BDFC-4984D438CA2D}|Domain\\Domain.csproj|solutionrelative:domain\\entites\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A527206-9C1F-4497-BDFC-4984D438CA2D}|Domain\\Domain.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-g4-aait-team2\\backend\\domain\\entites\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A527206-9C1F-4497-BDFC-4984D438CA2D}|Domain\\Domain.csproj|solutionrelative:domain\\entites\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A527206-9C1F-4497-BDFC-4984D438CA2D}|Domain\\Domain.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-g4-aait-team2\\backend\\domain\\entites\\questioncontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A527206-9C1F-4497-BDFC-4984D438CA2D}|Domain\\Domain.csproj|solutionrelative:domain\\entites\\questioncontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A527206-9C1F-4497-BDFC-4984D438CA2D}|Domain\\Domain.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-g4-aait-team2\\backend\\domain\\entites\\mainuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A527206-9C1F-4497-BDFC-4984D438CA2D}|Domain\\Domain.csproj|solutionrelative:domain\\entites\\mainuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A527206-9C1F-4497-BDFC-4984D438CA2D}|Domain\\Domain.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-g4-aait-team2\\backend\\domain\\entites\\headgengroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A527206-9C1F-4497-BDFC-4984D438CA2D}|Domain\\Domain.csproj|solutionrelative:domain\\entites\\headgengroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-g4-aait-team2\\backend\\application\\features\\contestsummary\\handler\\individualcontestsummaryrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|solutionrelative:application\\features\\contestsummary\\handler\\individualcontestsummaryrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-g4-aait-team2\\backend\\application\\features\\contestsummary\\handler\\groupcontestsummaryrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|solutionrelative:application\\features\\contestsummary\\handler\\groupcontestsummaryrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-g4-aait-team2\\backend\\application\\features\\contestsummary\\handler\\groupcontestsummaryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|solutionrelative:application\\features\\contestsummary\\handler\\groupcontestsummaryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-g4-aait-team2\\backend\\application\\contracts\\persistence\\icontestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|solutionrelative:application\\contracts\\persistence\\icontestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-g4-aait-team2\\backend\\application\\dtos\\contestsummary\\contestperformancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|solutionrelative:application\\dtos\\contestsummary\\contestperformancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-g4-aait-team2\\backend\\application\\dtos\\contestsummary\\groupcontestsummaryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|solutionrelative:application\\dtos\\contestsummary\\groupcontestsummaryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-g4-aait-team2\\backend\\application\\dtos\\contestsummary\\individualcontestsummaryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|solutionrelative:application\\dtos\\contestsummary\\individualcontestsummaryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-g4-aait-team2\\backend\\application\\dtos\\contestsummary\\overallcontestsummaryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|solutionrelative:application\\dtos\\contestsummary\\overallcontestsummaryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|c:\\users\\nahom\\onedrive\\desktop\\contest-central-g4-aait-team2\\backend\\application\\dtos\\contestsummary\\userperformancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E1ECE2-8D4A-4D75-9C15-242D6276433F}|Application\\Application.csproj|solutionrelative:application\\dtos\\contestsummary\\userperformancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateContestCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\Features\\ContestCreation\\Handler\\CreateContestCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\ContestCreation\\Handler\\CreateContestCommandHandler.cs",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\Features\\ContestCreation\\Handler\\CreateContestCommandHandler.cs*",
+              "RelativeToolTip": "Application\\Features\\ContestCreation\\Handler\\CreateContestCommandHandler.cs*",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAB0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-27T18:48:13.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContestManagementDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Persistence\\ContestManagementDbContext.cs",
+              "RelativeDocumentMoniker": "Persistence\\ContestManagementDbContext.cs",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Persistence\\ContestManagementDbContext.cs",
+              "RelativeToolTip": "Persistence\\ContestManagementDbContext.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAYwBoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T16:47:13.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContestManagementDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Persistence\\ContestManagementDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Persistence\\ContestManagementDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Persistence\\ContestManagementDbContextFactory.cs",
+              "RelativeToolTip": "Persistence\\ContestManagementDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T16:47:10.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersistenceServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Persistence\\PersistenceServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Persistence\\PersistenceServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Persistence\\PersistenceServiceRegistration.cs",
+              "RelativeToolTip": "Persistence\\PersistenceServiceRegistration.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T16:46:51.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Application\\Models\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "Application\\Models\\JwtSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-27T18:43:50.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\Models\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Models\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\Models\\AuthResponse.cs",
+              "RelativeToolTip": "Application\\Models\\AuthResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-27T18:43:49.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthRequest.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\Models\\AuthRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Models\\AuthRequest.cs",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\Models\\AuthRequest.cs",
+              "RelativeToolTip": "Application\\Models\\AuthRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-27T18:43:47.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetIndividualContestHistoryRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\Features\\User\\Handlers\\Queries\\GetIndividualContestHistoryRequestHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\User\\Handlers\\Queries\\GetIndividualContestHistoryRequestHandler.cs",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\Features\\User\\Handlers\\Queries\\GetIndividualContestHistoryRequestHandler.cs",
+              "RelativeToolTip": "Application\\Features\\User\\Handlers\\Queries\\GetIndividualContestHistoryRequestHandler.cs",
+              "ViewState": "AQIAAA8AAACAZmZmZmYkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-27T18:43:29.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\Exceptions\\ValidationException.cs",
+              "RelativeDocumentMoniker": "Application\\Exceptions\\ValidationException.cs",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\Exceptions\\ValidationException.cs",
+              "RelativeToolTip": "Application\\Exceptions\\ValidationException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-27T18:42:22.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InternalServerErrorException.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\Exceptions\\InternalServerErrorException.cs",
+              "RelativeDocumentMoniker": "Application\\Exceptions\\InternalServerErrorException.cs",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\Exceptions\\InternalServerErrorException.cs",
+              "RelativeToolTip": "Application\\Exceptions\\InternalServerErrorException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-27T18:42:19.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Application\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Application\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-27T18:42:17.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContestDto.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\DTOs\\ContestDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ContestDto.cs",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\DTOs\\ContestDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\ContestDto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-27T18:41:59.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseDto.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\DTOs\\Common\\BaseDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Common\\BaseDto.cs",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\DTOs\\Common\\BaseDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\Common\\BaseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-27T18:41:40.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserAccessor.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\Contracts\\Infrastructure\\IUserAccessor.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\Infrastructure\\IUserAccessor.cs",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\Contracts\\Infrastructure\\IUserAccessor.cs",
+              "RelativeToolTip": "Application\\Contracts\\Infrastructure\\IUserAccessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-27T18:40:59.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICodeforcesService.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\Contracts\\Infrastructure\\ICodeforcesService.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\Infrastructure\\ICodeforcesService.cs",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\Contracts\\Infrastructure\\ICodeforcesService.cs",
+              "RelativeToolTip": "Application\\Contracts\\Infrastructure\\ICodeforcesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-27T18:40:54.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\WebApi\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\WebApi\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\BaseApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-27T18:40:21.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\WebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\WebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-27T18:40:16.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ContestController.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\WebApi\\Controllers\\Contest\\ContestController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\Contest\\ContestController.cs",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\WebApi\\Controllers\\Contest\\ContestController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\Contest\\ContestController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T16:59:51.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": ".gitkeep",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Domain\\Entites\\.gitkeep",
+              "RelativeDocumentMoniker": "Domain\\Entites\\.gitkeep",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Domain\\Entites\\.gitkeep",
+              "RelativeToolTip": "Domain\\Entites\\.gitkeep",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-12-26T16:58:47.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "QuestionContest.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Domain\\Entites\\QuestionContest.cs",
+              "RelativeDocumentMoniker": "Domain\\Entites\\QuestionContest.cs",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Domain\\Entites\\QuestionContest.cs",
+              "RelativeToolTip": "Domain\\Entites\\QuestionContest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T16:58:10.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Domain\\Entites\\Question.cs",
+              "RelativeDocumentMoniker": "Domain\\Entites\\Question.cs",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Domain\\Entites\\Question.cs",
+              "RelativeToolTip": "Domain\\Entites\\Question.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T16:58:06.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainUser.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Domain\\Entites\\MainUser.cs",
+              "RelativeDocumentMoniker": "Domain\\Entites\\MainUser.cs",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Domain\\Entites\\MainUser.cs",
+              "RelativeToolTip": "Domain\\Entites\\MainUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T16:57:55.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CodeforcesService.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Infrastructure\\CodeforcesService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\CodeforcesService.cs",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Infrastructure\\CodeforcesService.cs",
+              "RelativeToolTip": "Infrastructure\\CodeforcesService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwBIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T16:45:52.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HeadGenGroup.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Domain\\Entites\\HeadGenGroup.cs",
+              "RelativeDocumentMoniker": "Domain\\Entites\\HeadGenGroup.cs",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Domain\\Entites\\HeadGenGroup.cs",
+              "RelativeToolTip": "Domain\\Entites\\HeadGenGroup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T16:57:45.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GroupContestSummaryRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\Features\\ContestSummary\\Handler\\GroupContestSummaryRequestHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\ContestSummary\\Handler\\GroupContestSummaryRequestHandler.cs",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\Features\\ContestSummary\\Handler\\GroupContestSummaryRequestHandler.cs",
+              "RelativeToolTip": "Application\\Features\\ContestSummary\\Handler\\GroupContestSummaryRequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T16:52:41.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GroupContestSummaryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\Features\\ContestSummary\\Handler\\GroupContestSummaryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\ContestSummary\\Handler\\GroupContestSummaryHandler.cs",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\Features\\ContestSummary\\Handler\\GroupContestSummaryHandler.cs",
+              "RelativeToolTip": "Application\\Features\\ContestSummary\\Handler\\GroupContestSummaryHandler.cs",
+              "ViewState": "AQIAAA0AAACAZmZmZmYGwBAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T16:52:33.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IndividualContestSummaryRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\Features\\ContestSummary\\Handler\\IndividualContestSummaryRequestHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\ContestSummary\\Handler\\IndividualContestSummaryRequestHandler.cs",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\Features\\ContestSummary\\Handler\\IndividualContestSummaryRequestHandler.cs",
+              "RelativeToolTip": "Application\\Features\\ContestSummary\\Handler\\IndividualContestSummaryRequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T16:52:43.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IContestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\Contracts\\Persistence\\IContestRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Contracts\\Persistence\\IContestRepository.cs",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\Contracts\\Persistence\\IContestRepository.cs",
+              "RelativeToolTip": "Application\\Contracts\\Persistence\\IContestRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T16:54:54.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ContestPerformanceDto.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\DTOs\\ContestSummary\\ContestPerformanceDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ContestSummary\\ContestPerformanceDto.cs",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\DTOs\\ContestSummary\\ContestPerformanceDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\ContestSummary\\ContestPerformanceDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T16:53:44.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GroupContestSummaryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\DTOs\\ContestSummary\\GroupContestSummaryResponse.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ContestSummary\\GroupContestSummaryResponse.cs",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\DTOs\\ContestSummary\\GroupContestSummaryResponse.cs",
+              "RelativeToolTip": "Application\\DTOs\\ContestSummary\\GroupContestSummaryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T16:53:47.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IndividualContestSummaryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\DTOs\\ContestSummary\\IndividualContestSummaryResponse.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ContestSummary\\IndividualContestSummaryResponse.cs",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\DTOs\\ContestSummary\\IndividualContestSummaryResponse.cs",
+              "RelativeToolTip": "Application\\DTOs\\ContestSummary\\IndividualContestSummaryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T16:53:48.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OverallContestSummaryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\DTOs\\ContestSummary\\OverallContestSummaryResponse.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ContestSummary\\OverallContestSummaryResponse.cs",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\DTOs\\ContestSummary\\OverallContestSummaryResponse.cs",
+              "RelativeToolTip": "Application\\DTOs\\ContestSummary\\OverallContestSummaryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T16:53:51.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserPerformanceDto.cs",
+              "DocumentMoniker": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\DTOs\\ContestSummary\\UserPerformanceDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ContestSummary\\UserPerformanceDto.cs",
+              "ToolTip": "C:\\Users\\nahom\\OneDrive\\Desktop\\contest-central-g4-aait-team2\\backend\\Application\\DTOs\\ContestSummary\\UserPerformanceDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\ContestSummary\\UserPerformanceDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-26T16:53:52.56Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

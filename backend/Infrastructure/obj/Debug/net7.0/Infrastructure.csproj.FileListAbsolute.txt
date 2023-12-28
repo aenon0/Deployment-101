@@ -53,3 +53,21 @@ d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Infrastructure\obj\De
 d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
 d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
 d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Infrastructure\bin\Debug\net7.0\Application.dll
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Infrastructure\bin\Debug\net7.0\Domain.dll
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Infrastructure\bin\Debug\net7.0\Application.pdb
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Infrastructure\bin\Debug\net7.0\Domain.pdb
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Infrastructure\obj\Debug\net7.0\Infrastructure.sourcelink.json
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll

@@ -206,3 +206,14 @@ d:\a2sv\real contest\contest-central-g4-aait-team2\backend\WebApi\obj\Debug\net7
 d:\a2sv\real contest\contest-central-g4-aait-team2\backend\WebApi\obj\Debug\net7.0\WebApi.pdb
 d:\a2sv\real contest\contest-central-g4-aait-team2\backend\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
 d:\a2sv\real contest\contest-central-g4-aait-team2\backend\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\WebApi\obj\Debug\net7.0\WebApi.sourcelink.json
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\WebApi\obj\Debug\net7.0\WebApi.dll
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\WebApi\obj\Debug\net7.0\WebApi.pdb

@@ -59,3 +59,23 @@ d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Persistence\obj\Debug
 d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Persistence\obj\Debug\net7.0\Persistence.pdb
 d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Persistence\obj\Debug\net7.0\Persistence.genruntimeconfig.cache
 d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Persistence\obj\Debug\net7.0\ref\Persistence.dll
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Persistence\bin\Debug\net7.0\Persistence.deps.json
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Persistence\bin\Debug\net7.0\Persistence.runtimeconfig.json
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Persistence\bin\Debug\net7.0\Persistence.dll
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Persistence\bin\Debug\net7.0\Persistence.pdb
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Persistence\bin\Debug\net7.0\Application.dll
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Persistence\bin\Debug\net7.0\Domain.dll
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Persistence\bin\Debug\net7.0\Domain.pdb
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Persistence\bin\Debug\net7.0\Application.pdb
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Persistence\obj\Debug\net7.0\Persistence.sourcelink.json
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Persistence\obj\Debug\net7.0\Persistence.dll
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Persistence\obj\Debug\net7.0\Persistence.pdb
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Persistence\obj\Debug\net7.0\Persistence.genruntimeconfig.cache
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Persistence\obj\Debug\net7.0\ref\Persistence.dll

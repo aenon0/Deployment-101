@@ -35,3 +35,16 @@ d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Domain\obj\Debug\net7
 d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Domain\obj\Debug\net7.0\refint\Domain.dll
 d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Domain\obj\Debug\net7.0\Domain.pdb
 d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Domain\obj\Debug\net7.0\Domain.sourcelink.json
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Domain\obj\Debug\net7.0\ref\Domain.dll

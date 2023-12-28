@@ -44,3 +44,12 @@ d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application\obj\Debug
 d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application\obj\Debug\net7.0\refint\Application.dll
 d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application\obj\Debug\net7.0\Application.pdb
 d:\a2sv\real contest\contest-central-g4-aait-team2\backend\Application\obj\Debug\net7.0\ref\Application.dll
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Application\obj\Debug\net7.0\Application.sourcelink.json
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Application\obj\Debug\net7.0\Application.dll
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Users\nahom\OneDrive\Desktop\contest-central-g4-aait-team2\backend\Application\obj\Debug\net7.0\Application.pdb

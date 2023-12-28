@@ -1,0 +1,15 @@
+﻿using Application.DTO.ContestCreation;
+using MediatR;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Application.Features.ContestCreation.Request
+{
+    public class GetProblemRequest : IRequest<ProblemDto>
+    {
+        public String ProblemUrl { set; get; }
+    }
+}
