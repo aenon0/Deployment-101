@@ -4,6 +4,22 @@
     {
       "command": "dotnet restore",
       "useYarn": false
+    },
+    {
+      "command": "dotnet restore ./Application",
+      "useYarn": false
+    },
+    {
+      "command": "dotnet restore ./Infrastructure",
+      "useYarn": false
+    },
+    {
+      "command": "dotnet restore ./Persistence",
+      "useYarn": false
+    },
+    {
+      "command": "dotnet restore ./Domain",
+      "useYarn": false
     }
   ]
 }
