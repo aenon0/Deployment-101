@@ -1,25 +1,33 @@
-"install": {
-  "include": [".", "./Application", "./Infrastructure","./Persistence", "./Domain"],
-  "commands": [
+{
+  "builds": [
     {
-      "command": "dotnet restore",
-      "useYarn": false
+      "src": "./Application/*.csproj",
+      "use": "@vercel/static-build",
+      "config": {
+        "maxLambdaSize": "50mb"
+      }
     },
     {
-      "command": "dotnet restore ./Application",
-      "useYarn": false
+      "src": "./Infrastructure/*.csproj",
+      "use": "@vercel/static-build",
+      "config": {
+        "maxLambdaSize": "50mb"
+      }
     },
     {
-      "command": "dotnet restore ./Infrastructure",
-      "useYarn": false
+      "src": "./Persistence/*.csproj",
+      "use": "@vercel/static-build",
+      "config": {
+        "maxLambdaSize": "50mb"
+      }
     },
     {
-      "command": "dotnet restore ./Persistence",
-      "useYarn": false
-    },
-    {
-      "command": "dotnet restore ./Domain",
-      "useYarn": false
+      "src": "./Domain/*.csproj",
+      "use": "@vercel/static-build",
+      "config": {
+        "maxLambdaSize": "50mb"
+      }
     }
-  ]
+  ],
+  "version": 2
 }
