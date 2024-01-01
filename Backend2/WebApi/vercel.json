@@ -1,0 +1,9 @@
+"install": {
+  "include": [".", "./Application", "./Infrastructure","./Persistence", "./Domain"],
+  "commands": [
+    {
+      "command": "dotnet restore",
+      "useYarn": false
+    }
+  ]
+}
