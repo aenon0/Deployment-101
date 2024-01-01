@@ -25,7 +25,7 @@ public class ContestSummaryController : ControllerBase
     }
 
     [HttpGet("GetOverallContestSummary")]
-    public async Task<ActionResult<ContestPerformanceDto>> GetOverallContestSummary()
+    public async Task<ActionResult<List<OverallContestSummaryDto>>> GetOverallContestSummary()
     {
         var res = await _mediator.Send(new OverallContestSummaryRequest());
         return Ok(res);
@@ -33,7 +33,7 @@ public class ContestSummaryController : ControllerBase
 
 
     [HttpGet("GetGroupContestSummary")]
-    public async Task<ActionResult<ContestPerformanceDto>> GetGroupContestSummary(string groupName)
+    public async Task<ActionResult<List<GroupContestSummaryDto>>> GetGroupContestSummary(string groupName)
     {
         var res = await _mediator.Send(new GroupContestSummaryRequest
         {

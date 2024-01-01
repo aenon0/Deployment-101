@@ -13,6 +13,7 @@ public class ContestCentralDbContext : IdentityDbContext<ApplicationUser>
 
         public DbSet<Group> Groups { get; set; }
         public DbSet<UserContest> UserContests {get; set; }
+        public DbSet<GroupContest> GroupContests { get; set; }
 
     public ContestCentralDbContext(DbContextOptions<ContestCentralDbContext> options)
             : base(options)

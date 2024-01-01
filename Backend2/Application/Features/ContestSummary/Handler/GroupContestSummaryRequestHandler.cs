@@ -10,14 +10,14 @@ using System.Threading.Tasks;
 
 namespace Application.Features.ContestSummary.Handler
 {
-    internal class GroupContestSummaryRequestHandler : IRequestHandler<GroupContestSummaryRequest, List<ContestPerformanceDto>>
+    internal class GroupContestSummaryRequestHandler : IRequestHandler<GroupContestSummaryRequest, List<GroupContestSummaryDto>>
     {
         IContestSummaryRepository _contestSummaryRepository;
         public GroupContestSummaryRequestHandler(IContestSummaryRepository contestSummaryRepository)
         { 
             _contestSummaryRepository = contestSummaryRepository;
         }
-        public async Task<List<ContestPerformanceDto>> Handle(GroupContestSummaryRequest request, CancellationToken cancellationToken)
+        public async Task<List<GroupContestSummaryDto>> Handle(GroupContestSummaryRequest request, CancellationToken cancellationToken)
         {
             var res = await _contestSummaryRepository.GetGroupContestSummary(request.GroupName);
             return res;

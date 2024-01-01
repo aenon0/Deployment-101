@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Application.DTO.ContestSummary
 {
-    internal class IndividualContestSummaryResponse
+    public class OverallContestSummaryDto
     {
+        public int? ContestId { get; set; }
+        public int? AverageSolves { get; set; }
     }
 }

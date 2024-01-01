@@ -11,5 +11,6 @@ namespace Domain.Entites
         public int GroupId { get; set; }
         public string Name { get; set; }
         public List<ApplicationUser> GroupMembers { get; set; }
+        public List<GroupContest> GroupContests { get; set; }
     }
 }

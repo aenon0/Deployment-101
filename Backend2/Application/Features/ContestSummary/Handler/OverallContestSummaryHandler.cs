@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace Application.Features.ContestSummary.Handler
 {
-    public class OverallContestSummaryHandler : IRequestHandler<OverallContestSummaryRequest, List<ContestPerformanceDto>>
+    public class OverallContestSummaryHandler : IRequestHandler<OverallContestSummaryRequest, List<OverallContestSummaryDto>>
     {
         private readonly IMapper _mapper;
         private readonly IMediator _mediator;
@@ -26,7 +26,7 @@ namespace Application.Features.ContestSummary.Handler
             _mediator = mediator;
             _contestSummaryRepository = contestSummaryRepository;
         }
-        public async  Task<List<ContestPerformanceDto>> Handle(OverallContestSummaryRequest request, CancellationToken cancellationToken)
+        public async  Task<List<OverallContestSummaryDto>> Handle(OverallContestSummaryRequest request, CancellationToken cancellationToken)
         {
             var res = await _contestSummaryRepository.GetOverallContestSummary();
             return res;

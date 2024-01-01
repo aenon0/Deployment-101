@@ -11,5 +11,7 @@ namespace Domain.Entites
         public int ContestId { get; set; }
         public List<Problem> Problem { get; set; }
         public ICollection<UserContest> UserContests { get; set; }
+        public List<GroupContest> GroupContests { get; set; }
+        public int? AverageSolves { get; set; }
     }
 }

@@ -17,26 +17,25 @@ namespace Persistence.Repositories.ContestSummary
             _contestCentralDbContext = contestCentralDbContext;
         }
 
-        public async Task<List<ContestPerformanceDto>> GetGroupContestSummary(string groupName)
+        public async Task<List<GroupContestSummaryDto>> GetGroupContestSummary(string groupName)
         {
-            var result = await _contestCentralDbContext.UserContests
-           .Include(uc => uc.User)
-           .Where(uc => uc.User.Group.Name == groupName)
-           .GroupBy(uc => uc.ContestId)
-           .Select(group => new ContestPerformanceDto
-           {
-               ContestId = group.Key,
-               usersPerformance = group.Select(uc => new UserPerformanceDto
-               {
-                   CodeforcesHandle = uc.User.CodeforcesHandle,
-                   Solves = uc.Solves,
-                   Penality = uc.Penality
-               }).ToList()
-               })
-               .ToListAsync();
 
-                Console.WriteLine(result);
-                return result;
+            var group = await _contestCentralDbContext.Groups.FirstOrDefaultAsync(p => p.Name == groupName);
+            var result = await _contestCentralDbContext.GroupContests
+                .Where(gc => gc.Group.GroupId == group.GroupId) 
+                .ToListAsync();
+            var groupContestSummary = new List<GroupContestSummaryDto>();
+            foreach (var groupContest in result)
+            {
+                groupContestSummary.Add(new GroupContestSummaryDto
+                {
+                    ContestId = groupContest.ContestId,
+                    GroupName = group.Name,
+                    AverageSolves = groupContest.AverageSolves
+                }); ;
+            }   
+            
+            return groupContestSummary;
         }
 
         public async Task<List<ContestPerformanceDto>> GetIndividualContestSummary(string codeForcesHandle)
@@ -61,25 +60,16 @@ namespace Persistence.Repositories.ContestSummary
             return result;
         }
 
-        public async Task<List<ContestPerformanceDto>> GetOverallContestSummary()
+        public async Task<List<OverallContestSummaryDto>> GetOverallContestSummary()
         {
-            var result = await _contestCentralDbContext.UserContests
-            .Include(uc => uc.User)  // Ensure User navigation property is loaded
-            .GroupBy(uc => uc.ContestId)
-            .Select(group => new ContestPerformanceDto
+            var contests = await _contestCentralDbContext.Contests.ToListAsync();
+            var overallContestSummary = new List<OverallContestSummaryDto>();
+            foreach(var contest in contests)
             {
-                ContestId = group.Key,
-                usersPerformance = group.Select(uc => new UserPerformanceDto
-                {
-                    CodeforcesHandle = uc.User.CodeforcesHandle, 
-                    Solves = uc.Solves,
-                    Penality = uc.Penality
-                }).ToList()
-            })
-            .ToListAsync();
+                overallContestSummary.Add(new OverallContestSummaryDto { ContestId = contest.ContestId,AverageSolves = contest.AverageSolves });
+            }
 
-            Console.WriteLine(result);
-            return result;
+            return overallContestSummary;
         }
     }
 }

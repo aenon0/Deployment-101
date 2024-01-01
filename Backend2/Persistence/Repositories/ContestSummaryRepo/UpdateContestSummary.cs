@@ -18,6 +18,11 @@ namespace Persistence.Repositories.ContestSummary
     {
         private readonly ICodeforcesService _codeForcesApi;
         private readonly ContestCentralDbContext _dbContext;
+        int totalSolves = 0;
+        int participants = 0;
+        Dictionary<int, int> groupMemberCounts = new Dictionary<int, int>();
+        Dictionary<int, int> groupSolves = new Dictionary<int, int>();
+        Dictionary<int, int> averageGroupSolves = new Dictionary<int, int>();
         public UpdateContestSummary(ICodeforcesService codeForcesApi, ContestCentralDbContext dbContext)
         {
             _dbContext = dbContext;
@@ -28,10 +33,11 @@ namespace Persistence.Repositories.ContestSummary
         {
             try
             {
+               
                 var response = await _codeForcesApi.GetContestStandings(gymId);
                 string jsonContent = await response.Content.ReadAsStringAsync();
-                Console.WriteLine(jsonContent);
                 var contest = await _dbContext.Contests.FindAsync(gymId);
+
                 if (jsonContent == null)
                 {
                     return new UpdateContestSummaryDto
@@ -40,11 +46,8 @@ namespace Persistence.Repositories.ContestSummary
                     };
                 }
                 var jsonObj = JObject.Parse(jsonContent);
-                Console.WriteLine(jsonObj);
                 var data = jsonObj["data"];
-                Console.WriteLine(data);
                 string jsonString = JsonConvert.SerializeObject(data);
-                Console.WriteLine(jsonString);
                 List<JsonDataDto> jsonObjects = JsonConvert.DeserializeObject<List<JsonDataDto>>(jsonString);
 
                 for (int i = 0; i < jsonObjects.Count; i++)
@@ -54,6 +57,19 @@ namespace Persistence.Repositories.ContestSummary
 
                     if (user != null)
                     {
+                        participants += 1;
+                        totalSolves += jsonObject.solved;
+                        if (groupMemberCounts.ContainsKey((int)user.GroupId)){
+                            groupMemberCounts[(int)user.GroupId] += 1;
+                            groupSolves[(int)user.GroupId] += jsonObject.solved;
+
+                        }
+                        else
+                        {
+                            groupMemberCounts[(int)user.GroupId] = 1;
+                            groupSolves[(int)user.GroupId] = jsonObject.solved;
+                        }
+
                         var userContest = new UserContest
                         {
                             ContestId = gymId,
@@ -69,6 +85,28 @@ namespace Persistence.Repositories.ContestSummary
 
                     }
 
+                    var averageSolve = totalSolves / participants;
+                    foreach(var key in groupSolves.Keys)
+                    {
+                        averageGroupSolves[key] = groupSolves[key] / groupMemberCounts[key];
+                    }
+
+                    // persist on the contest table the average problem solved on the contest
+                    // persist on the contesGroup table the average problem solved by the group
+                    contest.AverageSolves = averageSolve;
+                    var group = await _dbContext.Groups.FindAsync(user.GroupId);
+
+                    var groupContest = new GroupContest
+                    {
+                        GroupId = group.GroupId,
+                        ContestId = contest.ContestId,
+                        Group = group,
+                        Contest = contest,
+                        AverageSolves = averageGroupSolves[group.GroupId]
+                    };
+
+                    await _dbContext.AddAsync(groupContest);
+                    await _dbContext.SaveChangesAsync();
                 }
 
                 return new UpdateContestSummaryDto { status = true };

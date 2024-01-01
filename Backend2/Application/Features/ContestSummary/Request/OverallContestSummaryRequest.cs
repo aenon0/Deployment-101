@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Application.Features.ContestSummary.Request
 {
-    public class OverallContestSummaryRequest : IRequest<List<ContestPerformanceDto>>
+    public class OverallContestSummaryRequest : IRequest<List<OverallContestSummaryDto>>
     {
     }
 }

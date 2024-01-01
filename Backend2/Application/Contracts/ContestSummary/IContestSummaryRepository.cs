@@ -11,8 +11,8 @@ namespace Application.Contracts.ContestSummary
 {
     public interface IContestSummaryRepository
     {
-        public Task<List<ContestPerformanceDto>> GetOverallContestSummary();
-        public Task<List<ContestPerformanceDto>> GetGroupContestSummary(string groupName);
+        public Task<List<OverallContestSummaryDto>> GetOverallContestSummary();
+        public Task<List<GroupContestSummaryDto>> GetGroupContestSummary(string groupName);
         public Task<List<ContestPerformanceDto>> GetIndividualContestSummary(string codeForcesHandle);
     }
 }
