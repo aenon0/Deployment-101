@@ -3,14 +3,11 @@ FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
 WORKDIR /app
 
 # Copy and restore the application projects
-COPY ./Application/*.csproj ./Application/
-COPY ./Infrastructure/*.csproj ./Infrastructure/
-COPY ./Persistence/*.csproj ./Persistence/
-COPY ./Domain/*.csproj ./Domain/
-RUN dotnet restore ./Application/*.csproj
-RUN dotnet restore ./Infrastructure/*.csproj
-RUN dotnet restore ./Persistence/*.csproj
-RUN dotnet restore ./Domain/*.csproj
+COPY ../Application/*.csproj ./Application/
+COPY ../Infrastructure/*.csproj ./Infrastructure/
+COPY ../Persistence/*.csproj ./Persistence/
+COPY ../Domain/*.csproj ./Domain/
+RUN dotnet restore ../*.csproj
 
 # Copy the entire solution and build
 COPY . .
