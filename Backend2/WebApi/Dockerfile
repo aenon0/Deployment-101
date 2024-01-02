@@ -3,15 +3,15 @@ FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
 WORKDIR /app
 
 # Copy and restore the application projects
-COPY Backend/Application/*.csproj ./Application/
-COPY Backend/Infrastructure/*.csproj ./Infrastructure/
-COPY Backend/Persistence/*.csproj ./Persistence/
-COPY Backend/Domain/*.csproj ./Domain/
-COPY Backend/WebApi/*.csproj ./WebApi/
+COPY Backend2/Application/*.csproj ./Application/
+COPY Backend2/Infrastructure/*.csproj ./Infrastructure/
+COPY Backend2/Persistence/*.csproj ./Persistence/
+COPY Backend2/Domain/*.csproj ./Domain/
+COPY Backend2/WebApi/*.csproj ./WebApi/
 RUN dotnet restore ./WebApi/*.csproj
 
 # Copy the entire solution and build
-COPY Backend .
+COPY ../Backend2 .
 RUN dotnet build -c Release --output ./build
 
 # Runtime stage
