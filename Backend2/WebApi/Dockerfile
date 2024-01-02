@@ -1,21 +1,21 @@
 # Build stage
-FROM mcr.microsoft.com/dotnet/sdk:3.1 AS build
+FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
 WORKDIR /app
 
 # Copy and restore the application projects
-COPY backend2/Application/*.csproj ./Application/
-COPY backend2/Infrastructure/*.csproj ./Infrastructure/
-COPY backend2/Persistence/*.csproj ./Persistence/
-COPY backend2/Domain/*.csproj ./Domain/
-COPY backend2/WebApi/*.csproj ./WebApi/
+COPY Backend/Application/*.csproj ./Application/
+COPY Backend/Infrastructure/*.csproj ./Infrastructure/
+COPY Backend/Persistence/*.csproj ./Persistence/
+COPY Backend/Domain/*.csproj ./Domain/
+COPY Backend/WebApi/*.csproj ./WebApi/
 RUN dotnet restore ./WebApi/*.csproj
 
 # Copy the entire solution and build
-COPY backend2 .
+COPY Backend .
 RUN dotnet build -c Release --output ./build
 
 # Runtime stage
-FROM mcr.microsoft.com/dotnet/aspnet:3.1 AS runtime
+FROM mcr.microsoft.com/dotnet/aspnet:7.0 AS runtime
 WORKDIR /app
 
 # Copy the publish output from the build stage
